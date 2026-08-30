@@ -1,0 +1,1 @@
+I am a developer working on the student portal project. I focus on creating clean user interfaces and managing front-end components. My goal is to write readable and efficient code for our team.feat
